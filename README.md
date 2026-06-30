@@ -67,7 +67,9 @@ AI automation        →  Agentic pipelines · market analytics · LLM-orchestra
 
 ### Numbers that matter
 
-- **4 alphas** live on VN30 Futures — Sharpe >3 · MDD <6% · hit rate ~70%
+- **> 15 alphas** live on VN30 Futures — Sharpe >3 · MDD <6% · hit rate ~70%
+- **> 22 alphas** live on Binance Futures — Sharpe >2 · MDD <12% · hit rate ~68%
+- Many strategies on Option, Structuring Product and Capital Market (Interbank Market)
 - **500+ strategies** running concurrently on self-built execution infra
 - **Agentic AI terminal** deployed at securities desk — endorsed by BOD
 
